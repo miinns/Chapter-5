@@ -9,7 +9,7 @@ public interface ISurface
 }
 public class SampleClass : IControl, ISurface
 {
-    //explicit in
+    //explicit i
     void IControl.Paint()
     {
         System.Console.WriteLine("IControl.Paint");
