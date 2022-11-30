@@ -8,7 +8,7 @@ class BaseClass
 }
 class DerivedClass : BaseClass
 {
-    // Overriding(재정
+    // Overriding(재
     new public void MethodA()
     { 
         Console.WriteLine("In DerivedClass ... Overriding !!!");
