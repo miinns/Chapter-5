@@ -38,7 +38,7 @@ class StructImpApp
 {
     public static void Main()
     {
-        Vector a = new Vector(100); // 100 = 스택 
+        Vector a = new Vector(100); // 100 = 스
         int n;
         while (true)
         { // 0이 입력될 때까지 반복
