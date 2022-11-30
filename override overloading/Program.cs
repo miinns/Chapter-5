@@ -14,7 +14,7 @@ class DerivedClass : BaseClass
         Console.WriteLine("In DerivedClass ... Overriding !!!");
     }
 
-    // Overloading(중복
+    // Overloading(중
     public void MethodA(int i)
     {
         Console.WriteLine("In DerivedClass ... Overloading !!!");
