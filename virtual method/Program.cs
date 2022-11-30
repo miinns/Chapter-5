@@ -36,6 +36,6 @@ class VirtualMethodApp
         BaseClass s = new DerivedClass();
         s.MethodA(); 
         s.MethodB();
-        s.MethodC(); // s 객체의 MathodC()가 호출
+        s.MethodC();
     }
 }
