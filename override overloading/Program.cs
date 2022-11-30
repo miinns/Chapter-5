@@ -14,7 +14,7 @@ class DerivedClass : BaseClass
         Console.WriteLine("In DerivedClass ... Overriding !!!");
     }
 
-    // Overlo
+    // Overl
     public void MethodA(int i)
     {
         Console.WriteLine("In DerivedClass ... Overloading !!!");
