@@ -8,7 +8,7 @@ class BaseClass
 }
 class DerivedClass : BaseClass
 {
-    // Overriding(
+    // Overriding
     new public void MethodA()
     { 
         Console.WriteLine("In DerivedClass ... Overriding !!!");
