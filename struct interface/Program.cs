@@ -42,7 +42,7 @@ class StructImpApp
         int n;
         while (true)
         { // 0이 입력될 때까지 반복
-            n = Console.Read() - '0';
+            n = Console.Read() - '0'
             if (n == 0) break;
             a.Insert(n);
         }
