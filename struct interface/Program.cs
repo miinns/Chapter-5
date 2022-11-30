@@ -41,7 +41,7 @@ class StructImpApp
         Vector a = new Vector(100); 
         int n;
         while (true)
-        { // 0이 입력
+        { // 0이 입
             n = Console.Read() - '0'
             if (n == 0) break;
             a.Insert(n);
