@@ -10,7 +10,7 @@ struct Vector : IVector
     private int[] v;
     private int index, size;
     public Vector(int size)
-    { // 생성자
+    { // 생성
         v = new int[size];
         this.size = size; 
         index = 0;
