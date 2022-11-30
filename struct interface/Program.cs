@@ -3,7 +3,7 @@ interface IVector
 {
     void Insert(int n);
     void ScalarSum(int n); 
-    void PrintVector(); // 배열
+    void PrintVector(); // 배
 }
 struct Vector : IVector
 {
