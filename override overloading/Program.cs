@@ -28,6 +28,6 @@ class OverridingAndOverloadingApp
         DerivedClass obj2 = new DerivedClass();
         obj1.MethodA();
         obj2.MethodA(); // 인자 없는 호출
-        obj2.MethodA(1); // 
+        obj2.MethodA(1); //
     }
 }
