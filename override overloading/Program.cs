@@ -14,7 +14,7 @@ class DerivedClass : BaseClass
         Console.WriteLine("In DerivedClass ... Overriding !!!");
     }
 
-    // Ove
+    // Ov
     public void MethodA(int i)
     {
         Console.WriteLine("In DerivedClass ... Overloading !!!");
